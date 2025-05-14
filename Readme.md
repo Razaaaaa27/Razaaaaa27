@@ -1,105 +1,48 @@
-# 👨‍💻 Muhammad Raza Adzani
+# 🧑‍💻 Muhammad Raza Adzani
 
-**`Full Stack Developer`**
+## Full Stack Developer
 
 My name is Muhammad Raza Adzani, and I am a student at Syiah Kuala University in the Faculty of Mathematics and Natural Sciences, majoring in Informatics. I am passionate about technology and dedicated to expanding my knowledge in software development, particularly in web technologies and programming languages.
 
-<p align="left">
-    <a href="https://github.com/MuhammadRazaAdzani?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MuhammadRazaAdzani?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/MuhammadRazaAdzani?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MuhammadRazaAdzani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
+[![GitHub Stars](https://img.shields.io/github/stars/MuhammadRazaAdzani?style=for-the-badge&logo=github&color=f8b500&logoColor=white)](https://github.com/MuhammadRazaAdzani?tab=repositories&sort=stargazers)
+[![GitHub Followers](https://img.shields.io/github/followers/MuhammadRazaAdzani?style=for-the-badge&logo=github&color=41b883&logoColor=white)](https://github.com/MuhammadRazaAdzani?tab=followers)
 
 ---
 
-### 🤖 Languages and Technologies
+## 🛠️ Languages and Technologies
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</div>
 
-<br/>
-<br/>
+---
 
-### 📊 Statistics
+## 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadRazaAdzani&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadRazaAdzani&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRazaAdzani&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRazaAdzani&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6" 
-  />
-</p>
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-raza-adzani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
