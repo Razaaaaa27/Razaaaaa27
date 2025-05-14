@@ -84,16 +84,16 @@ I am a student at Syiah Kuala University in the Faculty of Mathematics and Natur
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:muhammadrazaadzani@gmail.com">
+  <a href="mailto:raza.a22@mhs.usk.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-raza-adzani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/razaadzani">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://t.me/razaadzani">
+  <a href="https://t.me/Razaaa27">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
