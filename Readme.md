@@ -4,8 +4,8 @@
 
 My name is Muhammad Raza Adzani, and I am a student at Syiah Kuala University in the Faculty of Mathematics and Natural Sciences, majoring in Informatics. I am passionate about technology and dedicated to expanding my knowledge in software development, particularly in web technologies and programming languages.
 
-[![GitHub Stars](https://img.shields.io/github/stars/MuhammadRazaAdzani?style=for-the-badge&logo=github&color=f8b500&logoColor=white)](https://github.com/MuhammadRazaAdzani?tab=repositories&sort=stargazers)
-[![GitHub Followers](https://img.shields.io/github/followers/MuhammadRazaAdzani?style=for-the-badge&logo=github&color=41b883&logoColor=white)](https://github.com/MuhammadRazaAdzani?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/MuhammadRazaAdzani?style=for-the-badge&logo=github&color=f8b500&logoColor=white)](https://github.com/Razaaaaa27?tab=repositories&sort=stargazers)
+[![GitHub Followers](https://img.shields.io/github/followers/MuhammadRazaAdzani?style=for-the-badge&logo=github&color=41b883&logoColor=white)](https://github.com/Razaaaaa27?tab=followers)
 
 ---
 
