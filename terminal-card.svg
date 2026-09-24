@@ -1,171 +1,127 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" width="860" height="460" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyM2E5MzYyMS04MGI4LTRlZjUtOTRjZC0wZTdmNmE5NjIwZjcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEqz9cvMAGByaZLQupeXepkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3YjA4ZmY2MS0yZTNjLTQ3YjItODViMi0wMjJhZmVlOTU3ZmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoEgUVS2skPZHrfvCA1hzfnQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg23ZS2rj+tWJ52t2XqxLJSXTohASlAmaR1B4iofa/D0ykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOAwWYYJFG5kWfPV/HPB9XUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDY0M7cmjIJQehqRx4QTMEk02XhDnI4lSmXwW6VRDtH7mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIzYTkzNjIxLTgwYjgtNGVmNS05NGNkLTBlN2Y2YTk2MjBmNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNhMGZkZjEzLTdjMTAtNDNlNC1hYzY1LWZjZTYxYjhmNWNjOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDbdlLauP61Ynna3ZerEslJdOiEBKUCZpHUHiKh9r8PTKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggpgnwzR9zPHZLjl/i2u/jq5Qr4aYsTaFgBgcErC6BpHCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgghHgx5ZX2DvTxwmumGe8tHjLBATNrVMnQJQlSifSP5T90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCoBrDE8rUWF7gA0o40LLBdSXHZn7VlOEa7BVuD28J8LDyrO0p66FsrQPamJeg/SpcPrhfIzw8w1n/eVe2zXfE4=</c2pa:manifest></metadata>
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
-      text { font-family: 'JetBrains Mono', 'Courier New', monospace; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 490" width="900" height="490" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplMTlkZjU5NC01NGRiLTQ5NTEtODBjMS05MjJmM2JhZmFhNzIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaG9L1aYmuhtRivUiO0QTFJkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2YmYxZWZlZS0zYWIxLTQwNDItOTZkMi1lYTg2ZGJhMDAxMDhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo3eJ9m6sbXfuVv1pwo3gZBwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggXQcYxym/zKz78XF4AuGdU1bSUVm0GldZ2iuhx2ao74akZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaG/Gps6YdOcpuj8JuSX95GsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBzGES+f3+CeHs1juTqiLM6pTfEWU5qG7P8S1+hzYbrlWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmUxOWRmNTk0LTU0ZGItNDk1MS04MGMxLTkyMmYzYmFmYWE3Mi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjMyMzExMGFlLTEwNTktNGI0Yi04YzU4LTg0YmFiZGM2MjNkNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBdBxjHKb/MrPvxcXgC4Z1TVtJRWbQaV1naK6HHZqjvhqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggShOZFjoxw4i3vUUOp77DUtIlCc5cbu5+MgGF9o9cxnuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggq+bjV5rwN47zg2YfZs373unVfxBut421fOLw9FQ14fB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOU/56deal3K1Y6TBSO73J/AZudtQ6sPOKEo9grqbYfwNK9NwWDJspAnNCbQUH58XYQLwMXr0C91uwocYuNbOJY=</c2pa:manifest></metadata>
 
-  <!-- Background -->
-  <rect width="860" height="460" fill="#1e1f22" rx="6"/>
+  <!-- BG -->
+  <rect width="900" height="490" fill="#1e1f22" rx="8"/>
 
-  <!-- Top bar dots -->
-  <circle cx="18" cy="16" r="5" fill="#ff5f57"/>
-  <circle cx="34" cy="16" r="5" fill="#febc2e"/>
-  <circle cx="50" cy="16" r="5" fill="#28c840"/>
-  <text x="75" y="21" font-size="11" fill="#6b6b6b">Razaaaaa27 / README.md</text>
+  <!-- Title bar -->
+  <rect width="900" height="32" fill="#2b2b2b" rx="8"/>
+  <rect y="24" width="900" height="8" fill="#2b2b2b"/>
+  <circle cx="18" cy="16" r="5.5" fill="#ff5f57"/>
+  <circle cx="36" cy="16" r="5.5" fill="#febc2e"/>
+  <circle cx="54" cy="16" r="5.5" fill="#28c840"/>
+  <text x="76" y="21" font-size="11" fill="#888" font-family="'Courier New',monospace">Razaaaaa27 / README.md</text>
+  <line x1="0" y1="32" x2="900" y2="32" stroke="#3c3c3c" stroke-width="1"/>
 
-  <!-- Separator line -->
-  <line x1="0" y1="30" x2="860" y2="30" stroke="#3c3c3c" stroke-width="1"/>
+  <!-- ASCII ART (textLength enforces exact spacing) -->
+  <text x="10" y="48" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                     %%##%%%%%% %###%##%                       </text>
+  <text x="10" y="62" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                   %%%%%%%%%%###%%%%@%%%%##                    </text>
+  <text x="10" y="76" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                  %%%%%%%%%%%%@@@@@@@%%%%%%##                  </text>
+  <text x="10" y="90" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                 %%%%%%%%%%%%@@@@@@%%@%%%%%##%#**              </text>
+  <text x="10" y="104" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                %%%@%%@%%%%%%@@@@@@@%%%%%%%%%%####             </text>
+  <text x="10" y="118" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">              %%%@@%%@@%%@@@@@@@@@@@%%%%%%%@@@%%%#             </text>
+  <text x="10" y="132" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">             %%@@@@@%@%%%@@@%%%%@%%%%%%%@@@@@%%%%%#            </text>
+  <text x="10" y="146" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">            %%%@@@@@@%%%%%##****#%%%%%%%@@@@@@%#%%#            </text>
+  <text x="10" y="160" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">            %%%%@@@@%%%%%%#++++*#%%%%%@%@@%%%%%#%%%%           </text>
+  <text x="10" y="174" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">            %%%%@@@@%%@%%%#+==+*#%%%%%%@@@@@%%%%%%#            </text>
+  <text x="10" y="188" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">             %@%%@%%@@@%%%=---==*#%%%%@%%%%%%@%%%#             </text>
+  <text x="10" y="202" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">              %%%%@%@@@%%#*+----=+***##***+*%%%%#              </text>
+  <text x="10" y="216" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">               #%@%%##*+++*++=-::-++#*==-:--%%#*#              </text>
+  <text x="10" y="230" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                *#%%==++=+++++=-:-=+==::::::+::=-              </text>
+  <text x="10" y="244" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                *=======----===:::::-:::::::--:-=              </text>
+  <text x="10" y="258" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                +==+==------==-::::::::::::::-+--              </text>
+  <text x="10" y="272" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                ==+==------===-::::--::::::::---               </text>
+  <text x="10" y="286" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                 =====-----==+==--:::::::::--::                </text>
+  <text x="10" y="300" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                  ====----=====----::::::::-                   </text>
+  <text x="10" y="314" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                     ==-===+**+++===+=::::-                    </text>
+  <text x="10" y="328" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                      ===========--::-:::-:                    </text>
+  <text x="10" y="342" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                       +========-:::::::-::                    </text>
+  <text x="10" y="356" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                       ==========-:::---::-                    </text>
+  <text x="10" y="370" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                       +=========------:::-                    </text>
+  <text x="10" y="384" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                     #:+========--::::::::--%                  </text>
+  <text x="10" y="398" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                   %%*.=========-:::::::::..#%                 </text>
+  <text x="10" y="412" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">                 %%%%:..-=---==---:::::::...*%%%%              </text>
+  <text x="10" y="426" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">             %%%%%%%%.....----==---::::.....+%%%%%%%%          </text>
+  <text x="10" y="440" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">          %%%%%%%%%%%:......:--=-----....  .#%%%%%%%%%%%#      </text>
+  <text x="10" y="454" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">     %%%%%%%%%%%%%%%%=..... ..:=--=:....  ..#%%%%%%%%%%%%%%%%% </text>
+  <text x="10" y="468" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">%%%%%%%%%%%%%%%%%%%%%*.....  .:===+:.     .-%%%%%%%%%%%%%%%%%%%</text>
+  <text x="10" y="482" textLength="415.8" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4e9a4e">%%%%%%%%%%%%%%%%%%%%%%:. ...:*%%%%%%*-. ...#%%%%%%%%%%%%%%%%%%%</text>
 
-  <!-- ── ASCII ART (left column, monospace 7.8px) ── -->
-  <g font-size="7.8" fill="#4e9a4e" font-family="'JetBrains Mono','Courier New',monospace">
-    <text x="12" y="52">                     %%##%%%%%% %###%##%          </text>
-    <text x="12" y="62">                   %%%%%%%%%%###%%%%@%%%%##        </text>
-    <text x="12" y="72">                  %%%%%%%%%%%%@@@@@@@%%%%%%##      </text>
-    <text x="12" y="82">                 %%%%%%%%%%%%@@@@@@%%@%%%%%##%#**  </text>
-    <text x="12" y="92">                %%%@%%@%%%%%%@@@@@@@%%%%%%%%%%#### </text>
-    <text x="12" y="102">              %%%@@%%@@%%@@@@@@@@@@@%%%%%%%@@@%%%# </text>
-    <text x="12" y="112">             %%@@@@@%@%%%@@@%%%%@%%%%%%%@@@@@%%%%%#</text>
-    <text x="12" y="122">            %%%@@@@@@%%%%%##****#%%%%%%%@@@@@@%#%%#</text>
-    <text x="12" y="132">            %%%%@@@@%%%%%%#++++*#%%%%%@%@@%%%%%#%%%</text>
-    <text x="12" y="142">            %%%%@@@@%%@%%%#+==+*#%%%%%%@@@@@%%%%%%#</text>
-    <text x="12" y="152">             %@%%@%%@@@%%%=---==*#%%%%@%%%%%%@%%%# </text>
-    <text x="12" y="162">              %%%%@%@@@%%#*+----=+***##***+*%%%%#  </text>
-    <text x="12" y="172">               #%@%%##*+++*++=-::-++#*==-:--%%#*# </text>
-    <text x="12" y="182">                *#%%==++=+++++=-:-=+==::::::+::=- </text>
-    <text x="12" y="192">                *=======----===:::::-:::::::--:-= </text>
-    <text x="12" y="202">                +==+==------==-::::::::::::::-+-- </text>
-    <text x="12" y="212">                ==+==------===-::::--::::::::---  </text>
-    <text x="12" y="222">                 =====-----==+==--:::::::::--::   </text>
-    <text x="12" y="232">                  ====----=====----::::::::-      </text>
-    <text x="12" y="242">                     ==-===+**+++===+=::::-       </text>
-    <text x="12" y="252">                      ===========--::-:::-:       </text>
-    <text x="12" y="262">                       +========-:::::::-::       </text>
-    <text x="12" y="272">                       ==========-:::---::-       </text>
-    <text x="12" y="282">                       +=========------:::-       </text>
-    <text x="12" y="292">                     #:+========--::::::::--%     </text>
-    <text x="12" y="302">                   %%*.=========-:::::::::..#%    </text>
-    <text x="12" y="312">                 %%%%:..-=---==---:::::::...*%%%%  </text>
-    <text x="12" y="322">             %%%%%%%%.....----==---::::.....+%%%%%</text>
-    <text x="12" y="332">          %%%%%%%%%%%:......:--=-----....  .#%%%%%</text>
-    <text x="12" y="342">     %%%%%%%%%%%%%%%%=..... ..:=--=:....  ..#%%%%</text>
-    <text x="12" y="352">%%%%%%%%%%%%%%%%%%%%%*.....  .:===+:.     .-%%%%%%</text>
-    <text x="12" y="362">%%%%%%%%%%%%%%%%%%%%%%:. ...:*%%%%%%*-. ...#%%%%%%</text>
-  </g>
+  <!-- Divider -->
+  <line x1="450" y1="36" x2="450" y2="475" stroke="#3c3c3c" stroke-width="1"/>
 
-  <!-- Vertical divider -->
-  <line x1="290" y1="35" x2="290" y2="450" stroke="#3c3c3c" stroke-width="1"/>
+  <!-- RIGHT PANEL -->
+  <text x="468" y="48" font-size="13" fill="#fff" font-weight="bold" font-family="'Courier New',monospace">Raza</text>
+  <line x1="504" y1="43" x2="888" y2="43" stroke="#444" stroke-width="1"/>
+  <text x="468" y="48" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="48" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">OS</text>
+  <line x1="497.2" y1="45" x2="714" y2="45" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="48" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Windows 11, Linux</text>
+  <text x="468" y="66" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="66" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">University</text>
+  <line x1="550.0" y1="63" x2="714" y2="63" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="66" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Univ. Syiah Kuala (USK)</text>
+  <text x="468" y="84" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="84" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Uptime</text>
+  <line x1="523.6" y1="81" x2="714" y2="81" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="84" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">21 years</text>
+  <text x="468" y="102" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="102" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Host</text>
+  <line x1="510.4" y1="99" x2="714" y2="99" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="102" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Banda Aceh, Indonesia</text>
+  <text x="468" y="120" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="120" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">IDE</text>
+  <line x1="503.8" y1="117" x2="714" y2="117" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="120" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">VS Code, PyCharm</text>
+  <text x="468" y="156" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Languages.Programming</text>
+  <line x1="610.6" y1="153" x2="714" y2="153" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="156" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Python, Java, JS, C++</text>
+  <text x="468" y="174" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Languages.Computer</text>
+  <line x1="590.8" y1="171" x2="714" y2="171" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="174" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">HTML, CSS, SQL, JSON</text>
+  <text x="468" y="192" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Languages.Real</text>
+  <line x1="564.4" y1="189" x2="714" y2="189" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="192" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Indonesian, English</text>
+  <text x="468" y="220" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Research.Topic </text>
+  <line x1="571.0" y1="217" x2="714" y2="217" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="220" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Graph Neural Networks</text>
+  <text x="468" y="238" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Research.Thesis</text>
+  <line x1="571.0" y1="235" x2="714" y2="235" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="238" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">GIN vs GINE · BACE1</text>
+  <text x="468" y="258" font-size="11" fill="#666" font-family="'Courier New',monospace">- Contact</text>
+  <line x1="535.4" y1="254" x2="888" y2="254" stroke="#444" stroke-width="1"/>
+  <text x="468" y="276" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="276" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Email.Campus</text>
+  <line x1="563.2" y1="273" x2="714" y2="273" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="276" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">raza.a22@mhs.usk.ac.id</text>
+  <text x="468" y="294" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="294" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">LinkedIn    </text>
+  <line x1="563.2" y1="291" x2="714" y2="291" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="294" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">muhammad-raza-adzani</text>
+  <text x="468" y="312" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="312" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Telegram    </text>
+  <line x1="563.2" y1="309" x2="714" y2="309" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="312" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">@Razaaa27</text>
+  <text x="468" y="330" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="330" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">GitHub      </text>
+  <line x1="563.2" y1="327" x2="714" y2="327" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="330" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Razaaaaa27</text>
+  <text x="468" y="348" font-size="11" fill="#666" font-family="'Courier New',monospace">- GitHub Stats</text>
+  <line x1="568.4" y1="344" x2="888" y2="344" stroke="#444" stroke-width="1"/>
+  <text x="468" y="366" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="366" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Focus </text>
+  <line x1="523.6" y1="363" x2="714" y2="363" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="366" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">AI · Drug Discovery · Web</text>
+  <text x="468" y="384" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="384" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Stack </text>
+  <line x1="523.6" y1="381" x2="714" y2="381" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="384" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">PyTorch · PyG · React</text>
+  <text x="468" y="402" font-size="11" fill="#6b9955" font-family="'Courier New',monospace">.</text>
+  <text x="480" y="402" font-size="11" fill="#9cdcfe" font-family="'Courier New',monospace">Thesis</text>
+  <line x1="523.6" y1="399" x2="714" y2="399" stroke="#4e9a4e" stroke-width="1" stroke-dasharray="1.5,3.5"/>
+  <text x="720" y="402" font-size="11" fill="#ce9178" font-family="'Courier New',monospace">Alzheimer&#x27;s Research</text>
 
-  <!-- ── RIGHT PANEL ── -->
+  <!-- Bottom bar -->
+  <line x1="0" y1="460" x2="900" y2="460" stroke="#3c3c3c" stroke-width="1"/>
+  <text x="12" y="477" font-size="10" fill="#555" font-family="'Courier New',monospace">Last Updated: 2026-09-24 UTC</text>
 
-  <!-- Section: Name header -->
-  <text x="305" y="52" font-size="12" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono','Courier New',monospace">Raza</text>
-  <line x1="343" y1="48" x2="848" y2="48" stroke="#3c3c3c" stroke-width="1"/>
-
-  <!-- Info block -->
-  <g font-size="11" font-family="'JetBrains Mono','Courier New',monospace">
-    <!-- dot bullets -->
-    <text x="305" y="68" fill="#6b9955">.</text>
-    <text x="315" y="68" fill="#9cdcfe">OS</text>
-    <text x="342" y="68" fill="#4e9a4e">.....................</text>
-    <text x="500" y="68" fill="#ce9178">Windows 11, Linux</text>
-
-    <text x="305" y="83" fill="#6b9955">.</text>
-    <text x="315" y="83" fill="#9cdcfe">University</text>
-    <text x="382" y="83" fill="#4e9a4e">...............</text>
-    <text x="500" y="83" fill="#ce9178">Universitas Syiah Kuala</text>
-
-    <text x="305" y="98" fill="#6b9955">.</text>
-    <text x="315" y="98" fill="#9cdcfe">Uptime</text>
-    <text x="354" y="98" fill="#4e9a4e">...................</text>
-    <text x="500" y="98" fill="#ce9178">21 years</text>
-
-    <text x="305" y="113" fill="#6b9955">.</text>
-    <text x="315" y="113" fill="#9cdcfe">Host</text>
-    <text x="337" y="113" fill="#4e9a4e">....................</text>
-    <text x="500" y="113" fill="#ce9178">Banda Aceh, Indonesia</text>
-
-    <text x="305" y="128" fill="#6b9955">.</text>
-    <text x="315" y="128" fill="#9cdcfe">IDE</text>
-    <text x="332" y="128" fill="#4e9a4e">.....................</text>
-    <text x="500" y="128" fill="#ce9178">VS Code, PyCharm</text>
-  </g>
-
-  <!-- Languages block -->
-  <g font-size="11" font-family="'JetBrains Mono','Courier New',monospace">
-    <text x="305" y="152" fill="#9cdcfe">Languages.Programming</text>
-    <text x="441" y="152" fill="#4e9a4e"> : ......</text>
-    <text x="500" y="152" fill="#ce9178">Python, Java, JS, C++</text>
-
-    <text x="305" y="167" fill="#9cdcfe">Languages.Computer   </text>
-    <text x="441" y="167" fill="#4e9a4e"> : .........</text>
-    <text x="500" y="167" fill="#ce9178">HTML, CSS, SQL, JSON</text>
-
-    <text x="305" y="182" fill="#9cdcfe">Languages.Real       </text>
-    <text x="441" y="182" fill="#4e9a4e"> : ..............</text>
-    <text x="500" y="182" fill="#ce9178">Indonesian, English</text>
-  </g>
-
-  <!-- Research block -->
-  <g font-size="11" font-family="'JetBrains Mono','Courier New',monospace">
-    <text x="305" y="206" fill="#9cdcfe">Research.Topic </text>
-    <text x="441" y="206" fill="#4e9a4e"> : ..</text>
-    <text x="500" y="206" fill="#ce9178">Graph Neural Networks</text>
-
-    <text x="305" y="221" fill="#9cdcfe">Research.Thesis</text>
-    <text x="441" y="221" fill="#4e9a4e"> : ..</text>
-    <text x="500" y="221" fill="#ce9178">GIN vs GINE · BACE1</text>
-  </g>
-
-  <!-- Contact section header -->
-  <text x="305" y="248" font-size="11" fill="#6b6b6b" font-family="'JetBrains Mono','Courier New',monospace">- Contact </text>
-  <line x1="365" y1="244" x2="848" y2="244" stroke="#3c3c3c" stroke-width="1"/>
-
-  <g font-size="11" font-family="'JetBrains Mono','Courier New',monospace">
-    <text x="305" y="263" fill="#6b9955">.</text>
-    <text x="315" y="263" fill="#9cdcfe">Email.Campus</text>
-    <text x="390" y="263" fill="#4e9a4e">  : .........</text>
-    <text x="500" y="263" fill="#ce9178">raza.a22@mhs.usk.ac.id</text>
-
-    <text x="305" y="278" fill="#6b9955">.</text>
-    <text x="315" y="278" fill="#9cdcfe">LinkedIn    </text>
-    <text x="390" y="278" fill="#4e9a4e">  : .............</text>
-    <text x="500" y="278" fill="#ce9178">muhammad-raza-adzani</text>
-
-    <text x="305" y="293" fill="#6b9955">.</text>
-    <text x="315" y="293" fill="#9cdcfe">Telegram    </text>
-    <text x="390" y="293" fill="#4e9a4e">  : .............</text>
-    <text x="500" y="293" fill="#ce9178">@Razaaa27</text>
-
-    <text x="305" y="308" fill="#6b9955">.</text>
-    <text x="315" y="308" fill="#9cdcfe">GitHub      </text>
-    <text x="390" y="308" fill="#4e9a4e">  : .............</text>
-    <text x="500" y="308" fill="#ce9178">Razaaaaa27</text>
-  </g>
-
-  <!-- GitHub Stats section header -->
-  <text x="305" y="335" font-size="11" fill="#6b6b6b" font-family="'JetBrains Mono','Courier New',monospace">- GitHub Stats </text>
-  <line x1="385" y1="331" x2="848" y2="331" stroke="#3c3c3c" stroke-width="1"/>
-
-  <g font-size="11" font-family="'JetBrains Mono','Courier New',monospace">
-    <text x="305" y="350" fill="#6b9955">.</text>
-    <text x="315" y="350" fill="#9cdcfe">Focus  </text>
-    <text x="390" y="350" fill="#4e9a4e"> : ...........</text>
-    <text x="500" y="350" fill="#ce9178">AI · Drug Discovery · Web</text>
-
-    <text x="305" y="365" fill="#6b9955">.</text>
-    <text x="315" y="365" fill="#9cdcfe">Stack  </text>
-    <text x="390" y="365" fill="#4e9a4e"> : ...........</text>
-    <text x="500" y="365" fill="#ce9178">PyTorch · PyG · React</text>
-
-    <text x="305" y="380" fill="#6b9955">.</text>
-    <text x="315" y="380" fill="#9cdcfe">Thesis </text>
-    <text x="390" y="380" fill="#4e9a4e"> : ...........</text>
-    <text x="500" y="380" fill="#ce9178">Alzheimer's Drug Discovery</text>
-  </g>
-
-  <!-- Bottom timestamp -->
-  <line x1="0" y1="430" x2="860" y2="430" stroke="#3c3c3c" stroke-width="1"/>
-  <text x="12" y="447" font-size="10" fill="#6b6b6b" font-family="'JetBrains Mono','Courier New',monospace">Last Updated: 2026-09-24 UTC</text>
 </svg>
